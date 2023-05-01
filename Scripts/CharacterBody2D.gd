@@ -25,18 +25,29 @@ func _physics_process(delta):
     if is_on_floor():
         wall_jump = true
         
-    AnimPlayer(velocity)
-
+    if Input.is_action_just_pressed("right"):
+        anim_player.flip_h = false
+        anim_player.play("start_run")
+        await get_tree().create_timer(0.4).timeout
+        AnimPlayer(velocity)
+    if Input.is_action_just_released("right"):
+        anim_player.play("stop_run")
+        await get_tree().create_timer(0.4).timeout
+        AnimPlayer(velocity)
+    
+    if Input.is_action_just_pressed("left"):
+        anim_player.flip_h = true
+        anim_player.play("start_run")
+        await get_tree().create_timer(0.4).timeout
+        AnimPlayer(velocity)
+    if Input.is_action_just_released("left"):
+        anim_player.play("stop_run")
+        await get_tree().create_timer(0.5).timeout
+        AnimPlayer(velocity)
 func AnimPlayer(velocity):
     if velocity.x == 0:
         anim_player.play("idle")
     if velocity.x > 0:
-        anim_player.flip_h = false
         anim_player.play("run")
-        if Input.is_action_just_released("right"):
-            anim_player.play("stop_run")
-            await get_tree().create_timer(0.7).timeout
-            print("yes")
     if velocity.x < 0:
-        anim_player.flip_h = true
         anim_player.play("run")

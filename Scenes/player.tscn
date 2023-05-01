@@ -106,7 +106,7 @@ animations = [{
 }],
 "loop": false,
 "name": &"start_run",
-"speed": 7.0
+"speed": 13.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -126,7 +126,7 @@ animations = [{
 }],
 "loop": false,
 "name": &"stop_run",
-"speed": 7.0
+"speed": 10.0
 }]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ru8e5"]
@@ -140,9 +140,7 @@ script = ExtResource("1_bo115")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D"]
 position = Vector2(1, -52)
 sprite_frames = SubResource("SpriteFrames_5ktqk")
-animation = &"stop_run"
-frame = 4
-frame_progress = 1.0
+animation = &"idle"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
 position = Vector2(-3, -56)
