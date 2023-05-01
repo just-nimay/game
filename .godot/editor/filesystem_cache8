@@ -1,0 +1,42 @@
+2a60927148abd1d33b818b535e306557
+::res://::1682922108
+icon.svg::CompressedTexture2D::2674981328017770210::1682360115::1682360129::1::::<><>::
+::res://Scenes/::1682920241
+floor_opacity_100.tscn::PackedScene::1487236793890226486::1682920241::0::1::::<><>::
+map.tscn::PackedScene::4646588817306112129::1682920241::0::1::::<><>::uid://mlbk456hdl2k<>uid://dwqa6d3rakj54<>uid://vgotqbxpukc1<>uid://d25q527pcx5sj
+player.tscn::PackedScene::9117318675878719645::1682920241::0::1::::<><>::res://Scripts/CharacterBody2D.gd<>uid://br6ltkxwbugm5<>uid://23agoprgjvbo<>uid://c0ghqssixa5v0<>uid://doqr83k470lry<>uid://jf6e8no2hk2k<>uid://b7cegjns6ti82<>uid://ckvsq4m2y6h4m<>uid://c6j2gpah0kyc<>uid://c8r7sl05su5wa<>uid://dgfxnl6lfgst1<>uid://n0vqewfrseij<>uid://cuao2bu2ketex<>uid://dvy7535e27v71<>uid://brgg0nm1mjl7u<>uid://bivxkyctevm6f<>uid://cs1gt5cor2173<>uid://dvspfibh157ub<>uid://ceeup5e485myv<>uid://blo50bdkr1ryh<>uid://oe3o83c40ffc<>uid://chujie6vuv41h<>uid://bpd8im3otv8tv<>uid://b1310qiqlb2y4<>uid://j3d8ctc30g34<>uid://cksua2lyw4b38<>uid://cnxr5t2suo2lr
+::res://Scripts/::1682898263
+CharacterBody2D.gd::GDScript::-1::1682898263::0::1::::<>CharacterBody2D<>::
+::res://Sprites/::1682881863
+all_sprites.png::CompressedTexture2D::865054424822132276::1682450827::1682450864::1::::<><>::
+enemy_1.png::CompressedTexture2D::1775042114901306940::1682865648::1682870575::1::::<><>::
+photo_2023-04-25_22-50-17.jpg::CompressedTexture2D::8736502216389404589::1682452228::1682452238::1::::<><>::
+player.png::CompressedTexture2D::7335801106630637287::1682847069::1682880733::1::::<><>::
+::res://Sprites/player_idle/::1682889889
+стоит запас1.png::CompressedTexture2D::8176028513615838574::1682881710::1682889889::1::::<><>::
+стоит запас2.png::CompressedTexture2D::5519204758148919130::1682881710::1682889889::1::::<><>::
+стоит запас3.png::CompressedTexture2D::7126143335084002212::1682881710::1682889889::1::::<><>::
+стоит запас4.png::CompressedTexture2D::965368285026194409::1682881710::1682889889::1::::<><>::
+стоит запас5.png::CompressedTexture2D::8684770868378133982::1682881710::1682889889::1::::<><>::
+стоит запас6.png::CompressedTexture2D::3592426941407160904::1682881710::1682889889::1::::<><>::
+стоит запас7.png::CompressedTexture2D::2992698978924764059::1682881710::1682889889::1::::<><>::
+стоит запас8.png::CompressedTexture2D::6090314185967150188::1682881710::1682889889::1::::<><>::
+стоит запас9.png::CompressedTexture2D::5063096962961115669::1682881710::1682889889::1::::<><>::
+стоит запас10.png::CompressedTexture2D::992628175516513560::1682881710::1682889889::1::::<><>::
+стоит запас11.png::CompressedTexture2D::4270757335528942705::1682881710::1682889889::1::::<><>::
+стоит запас12.png::CompressedTexture2D::689743386560389109::1682881710::1682889889::1::::<><>::
+стоит запас13.png::CompressedTexture2D::5513104379439225189::1682881710::1682889889::1::::<><>::
+::res://Sprites/player_run/::1682889795
+бег1.png::CompressedTexture2D::3644329114685840894::1682870317::1682889742::1::::<><>::
+бег2.png::CompressedTexture2D::1952912829383744012::1682870317::1682889742::1::::<><>::
+бег3.png::CompressedTexture2D::4636846512005382053::1682870317::1682889742::1::::<><>::
+бег4.png::CompressedTexture2D::204968405344764626::1682870317::1682889742::1::::<><>::
+бег5.png::CompressedTexture2D::6540403290134250571::1682870317::1682889772::1::::<><>::
+бег6.png::CompressedTexture2D::643912605489447088::1682870317::1682889772::1::::<><>::
+бег7.png::CompressedTexture2D::7592137333984705800::1682870317::1682889772::1::::<><>::
+бег8.png::CompressedTexture2D::6177516579140750091::1682870317::1682889795::1::::<><>::
+бег9.png::CompressedTexture2D::8671306672997695705::1682870317::1682889795::1::::<><>::
+бег10.png::CompressedTexture2D::5733863826216692899::1682870317::1682889795::1::::<><>::
+бег11.png::CompressedTexture2D::3189265464534788187::1682870317::1682889795::1::::<><>::
+бег12.png::CompressedTexture2D::5306011826183829559::1682870317::1682889795::1::::<><>::
+бег13.png::CompressedTexture2D::3447465092835374519::1682870317::1682889795::1::::<><>::
