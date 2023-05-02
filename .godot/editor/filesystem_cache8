@@ -1,17 +1,21 @@
 2a60927148abd1d33b818b535e306557
-::res://::1682922108
+::res://::1683053398
 icon.svg::CompressedTexture2D::2674981328017770210::1682360115::1682360129::1::::<><>::
-::res://Scenes/::1682920241
-floor_opacity_100.tscn::PackedScene::1487236793890226486::1682920241::0::1::::<><>::
-map.tscn::PackedScene::4646588817306112129::1682920241::0::1::::<><>::uid://mlbk456hdl2k<>uid://dwqa6d3rakj54<>uid://vgotqbxpukc1<>uid://d25q527pcx5sj
-player.tscn::PackedScene::9117318675878719645::1682920241::0::1::::<><>::res://Scripts/CharacterBody2D.gd<>uid://br6ltkxwbugm5<>uid://23agoprgjvbo<>uid://c0ghqssixa5v0<>uid://doqr83k470lry<>uid://jf6e8no2hk2k<>uid://b7cegjns6ti82<>uid://ckvsq4m2y6h4m<>uid://c6j2gpah0kyc<>uid://c8r7sl05su5wa<>uid://dgfxnl6lfgst1<>uid://n0vqewfrseij<>uid://cuao2bu2ketex<>uid://dvy7535e27v71<>uid://brgg0nm1mjl7u<>uid://bivxkyctevm6f<>uid://cs1gt5cor2173<>uid://dvspfibh157ub<>uid://ceeup5e485myv<>uid://blo50bdkr1ryh<>uid://oe3o83c40ffc<>uid://chujie6vuv41h<>uid://bpd8im3otv8tv<>uid://b1310qiqlb2y4<>uid://j3d8ctc30g34<>uid://cksua2lyw4b38<>uid://cnxr5t2suo2lr
-::res://Scripts/::1682898263
-CharacterBody2D.gd::GDScript::-1::1682898263::0::1::::<>CharacterBody2D<>::
-::res://Sprites/::1682881863
+README.md::TextFile::-1::1682929564::0::1::::<><>::
+::res://Scenes/::1683052615
+floor_opacity_100.tscn::PackedScene::1487236793890226486::1683052614::0::1::::<><>::
+map.tscn::PackedScene::4646588817306112129::1683052615::0::1::::<><>::uid://mlbk456hdl2k<>uid://dwqa6d3rakj54<>uid://vgotqbxpukc1<>uid://d25q527pcx5sj
+player.tscn::PackedScene::9117318675878719645::1683052614::0::1::::<><>::res://Scripts/CharacterBody2D.gd<>uid://br6ltkxwbugm5<>uid://c5kh1gya7wpby<>uid://cxfph461hgcaf<>uid://23agoprgjvbo<>uid://c0ghqssixa5v0<>uid://doqr83k470lry<>uid://jf6e8no2hk2k<>uid://b7cegjns6ti82<>uid://ckvsq4m2y6h4m<>uid://c6j2gpah0kyc<>uid://c8r7sl05su5wa<>uid://dgfxnl6lfgst1<>uid://n0vqewfrseij<>uid://cuao2bu2ketex<>uid://dvy7535e27v71<>uid://brgg0nm1mjl7u<>uid://bivxkyctevm6f<>uid://cs1gt5cor2173<>uid://dvspfibh157ub<>uid://ceeup5e485myv<>uid://blo50bdkr1ryh<>uid://oe3o83c40ffc<>uid://chujie6vuv41h<>uid://bpd8im3otv8tv<>uid://b1310qiqlb2y4<>uid://j3d8ctc30g34<>uid://cksua2lyw4b38<>uid://d3wi2yf1anbju<>uid://dgdf2k80iv1sa<>uid://bmdoxi8upd677<>uid://bkjcwplldcfiv<>uid://bgfmm1aq8jg55<>uid://coyhyj2db6rxo<>uid://beuwy2kyywkfd<>uid://cnxr5t2suo2lr<>uid://g73dyaqa10yj<>uid://dx31cqfnk0pye<>uid://dlh7t880no4vr
+::res://Scripts/::1683052485
+CharacterBody2D.gd::GDScript::-1::1683052485::0::1::::<>CharacterBody2D<>::
+::res://Sprites/::1682952071
 all_sprites.png::CompressedTexture2D::865054424822132276::1682450827::1682450864::1::::<><>::
 enemy_1.png::CompressedTexture2D::1775042114901306940::1682865648::1682870575::1::::<><>::
 photo_2023-04-25_22-50-17.jpg::CompressedTexture2D::8736502216389404589::1682452228::1682452238::1::::<><>::
-player.png::CompressedTexture2D::7335801106630637287::1682847069::1682880733::1::::<><>::
+::res://Sprites/levels/::1682952056
+::res://Sprites/levels/level_1/::1682952085
+level_1_bg_0.png::CompressedTexture2D::2612621281291699565::1682951910::1682952085::1::::<><>::
+level_1_bg_1.png::CompressedTexture2D::8104433695879353060::1682951910::1682952085::1::::<><>::
 ::res://Sprites/player_idle/::1682889889
 стоит запас1.png::CompressedTexture2D::8176028513615838574::1682881710::1682889889::1::::<><>::
 стоит запас2.png::CompressedTexture2D::5519204758148919130::1682881710::1682889889::1::::<><>::
@@ -26,6 +30,25 @@ player.png::CompressedTexture2D::7335801106630637287::1682847069::1682880733::1:
 стоит запас11.png::CompressedTexture2D::4270757335528942705::1682881710::1682889889::1::::<><>::
 стоит запас12.png::CompressedTexture2D::689743386560389109::1682881710::1682889889::1::::<><>::
 стоит запас13.png::CompressedTexture2D::5513104379439225189::1682881710::1682889889::1::::<><>::
+::res://Sprites/player_jump/::1683053654
+прыгает2.png::CompressedTexture2D::1532453560030136878::1683053085::1683053462::1::::<><>::
+прыгает3.png::CompressedTexture2D::6440411324738350082::1683053085::1683053462::1::::<><>::
+прыгает4.png::CompressedTexture2D::780680059804271348::1683053085::1683053509::1::::<><>::
+прыгает5.png::CompressedTexture2D::2344044516350077780::1683053085::1683053555::1::::<><>::
+прыгает6.png::CompressedTexture2D::7141408371884150822::1683053085::1683053555::1::::<><>::
+прыгает7.png::CompressedTexture2D::8622069809556645015::1683053085::1683053555::1::::<><>::
+прыгает9.png::CompressedTexture2D::6135230040343461699::1683053086::1683053654::1::::<><>::
+прыгает10.png::CompressedTexture2D::3447041731999393044::1683053086::1683053654::1::::<><>::
+прыгает11.png::CompressedTexture2D::5717332157206131486::1683053086::1683053654::1::::<><>::
+прыгает12.png::CompressedTexture2D::2636357386490058758::1683053086::1683053696::1::::<><>::
+прыгает13.png::CompressedTexture2D::6217920457803568596::1683053086::1683053696::1::::<><>::
+::res://Sprites/player_jump_wall/::1682952084
+отталкивается от стены1.png::CompressedTexture2D::5186290149769046210::1682951711::1682952084::1::::<><>::
+отталкивается от стены2.png::CompressedTexture2D::3041847344031886322::1682951711::1682952084::1::::<><>::
+отталкивается от стены3.png::CompressedTexture2D::2359801491116777101::1682951711::1682952084::1::::<><>::
+отталкивается от стены4.png::CompressedTexture2D::8616058429785693049::1682951711::1682952084::1::::<><>::
+отталкивается от стены5.png::CompressedTexture2D::5150820485257635954::1682951711::1682952084::1::::<><>::
+отталкивается от стены6.png::CompressedTexture2D::2361341731799448526::1682951711::1682952084::1::::<><>::
 ::res://Sprites/player_run/::1682889795
 бег1.png::CompressedTexture2D::3644329114685840894::1682870317::1682889742::1::::<><>::
 бег2.png::CompressedTexture2D::1952912829383744012::1682870317::1682889742::1::::<><>::
